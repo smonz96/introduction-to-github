@@ -7,3 +7,8 @@ I am learning to use markdown!
 I can even include pictures!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+###### Code
+```
+print('Hello World')
