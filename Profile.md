@@ -12,3 +12,9 @@ I can even include pictures!
 ###### Code
 ```
 print('Hello World')
+```
+
+##### Lastly we try task lists
+- [x] learn GIT
+- [x] learn markdown
+- [ ] master GIT
